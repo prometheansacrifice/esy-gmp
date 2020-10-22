@@ -13,6 +13,9 @@
     "install": [
       "make install"
     ],
+    "dependencies": {
+      "esy-m4": "esy-packages/esy-m4"
+    },
     "exportedEnv": {
       "LDFLAGS": {
         "scope": "global",
